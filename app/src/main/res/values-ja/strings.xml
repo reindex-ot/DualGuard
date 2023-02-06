@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name" translatable="false">DualGuard</string>
+  <string name="action_settings">アプリについて</string>
+  <!-- Strings used for fragments for navigation -->
+  <string name="first_fragment_label" translatable="false">DualGuard</string>
+  <string name="first_fragment_enabled">モジュールは有効です</string>
+  <string name="first_fragment_disabled">モジュールは無効です</string>
+  <string name="main_first_use_notice_title">これはAdGuardのサブスクリプションをバイパスするものではありません</string>
+  <string name="main_first_use_notice_text">このモジュールは3台以上のデバイスを持っている方を対象にしています。このモジュールはAdGuard Premiumを無料で入手する事はできません。モジュールを使用する前に有効なライセンスを購入する必要があります。このモジュールを使用する事により、個人利用かつ非商用利用の使用に同意するものとします。</string>
+  <string name="main_first_use_notice_agree">同意します</string>
+  <string name="about_slogan">DualGuardについて</string>
+  <string name="about_module_intro_and_help_title">導入と支援</string>
+  <string name="about_module_intro_and_help_text">このモジュールはAdGuardのパーソナル版ライセンスを購入しているけどデバイスの台数が3台以上の場合に高度な機能を使用できるようにする物です。\n\n本来のAdGuardのパーソナル版ライセンスは3台分のデバイスしかアクティベートができません。このモジュールを使用する事によりAdGuardのAndroid版でその制限を無視する事が可能になります。\n\nまず始めにこのモジュールはPremiumのライセンスを無料で取得する事はできません。AdGuardをハックしたいと思った方は間違った場所に来たかもしれません。正規のAdGuardのライセンスを持っている方は以下の説明をお読みください:\n1.AdGuardをダウンロードとインストールを行ない、ライセンスをアプリでアクティブにします。\n2.LSPosedでこのモジュールを有効化します。\n3.AdGuardを強制終了し、アプリを再度起動してください。\n\nその後はすべてのデバイスでPremiumのアクセスをお楽しみください!</string>
+  <string name="about_module_developer_title">開発者</string>
+  <!-- Strings below are intended for remove -->
+  <string name="hello_first_fragment">こんにちは、1番目のフラグメントです</string>
+  <string name="hello_second_fragment">こんにちは、2番目のフラグメントです 引数: %1$s</string>
+  <string name="second_fragment_label">2番目のフラグメント</string>
+  <string name="next">次へ</string>
+  <string name="previous">前へ</string>
+</resources>
